@@ -4,5 +4,8 @@ Main Concept Involved is: Python Full Stack Development and Web Scrapping
 
 <p align="center">
   <img src="Capture.PNG" width="350" title="hover text">
-  <img src="Capture1.PNG" width="350" alt="accessibility text">
+  
 </p>
+<p>
+<img src="Capture1.PNG" width="350" alt="accessibility text">
+ </p>
