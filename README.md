@@ -1,6 +1,7 @@
 # IMDB_Review_Collector
 End to End Python implementation where input is a movie name and output is its ratings, reviews on IMDB
 Main Concept Involved is: Python Full Stack Development and Web Scrapping
+<a href"https://imdbreviewcollector.herokuapp.com/"> Go to the website</a>
 <p align = "center">
   <img src = "imdb_logo.png" width="500" alt="accessibility text">
 </p>
